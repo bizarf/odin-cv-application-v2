@@ -4,6 +4,8 @@ This is the first project under TOP in the React section. The goal is to make a 
 
 [View the live app here](https://bizarf.github.io/odin-cv-application-v2/)
 
+<hr>
+
 #### Install:
 
 To run this project on your local server, first install the dependencies with the command:
