@@ -44,7 +44,9 @@ const WorkExperience = ({ data, setData }: Props) => {
     };
 
     const handleInput = (
-        e: React.ChangeEvent<HTMLInputElement>,
+        e:
+            | React.ChangeEvent<HTMLInputElement>
+            | React.ChangeEvent<HTMLTextAreaElement>,
         index: number
     ) => {
         const { name, value } = e.target;
